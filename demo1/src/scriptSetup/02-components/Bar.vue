@@ -1,6 +1,6 @@
 <template>
   <div>
-    <h2>这是Foo组件</h2>
+    <h2>这是Bar组件</h2>
     
   </div>
 </template>
